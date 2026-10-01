@@ -1,0 +1,7 @@
+.env.local
+.venv/
+__pycache__/
+tmp/
+
+# Generated reports name the candidate and embed the Adzuna app_id in every listing link.
+*job_recommendations*.md
